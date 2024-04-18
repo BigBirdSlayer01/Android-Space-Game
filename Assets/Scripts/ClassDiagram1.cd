@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Enemy">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAEAIIAKAAAAAAAAAgADABAMIAAQAAAAAgAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chicken" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAAAAAIAAAAAAAAIAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Chicken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChickenBoss" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABQAIAAAAAAAAIAABIAAAAABAQAAAAI=</HashCode>
+      <FileName>Assets\Scripts\ChickenBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EvilSpaceShip" Collapsed="true">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAABAAIAAAAAAAAIAAAIAAAAAAAQAAAAI=</HashCode>
+      <FileName>Assets\Scripts\EvilSpaceShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Face" Collapsed="true">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fish" Collapsed="true">
+    <Position X="17.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAEABAAIAAAAAAAAIAAAAAAAAAAAQCAgAI=</HashCode>
+      <FileName>Assets\Scripts\Fish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NukeEnemy" Collapsed="true">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NukeEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShipBoss" Collapsed="true">
+    <Position X="21.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAABAAIAAAAAAAAIAAAIAAAAAAAQAAAAI=</HashCode>
+      <FileName>Assets\Scripts\SpaceShipBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TentacleBoss" Collapsed="true">
+    <Position X="24" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAACAKAAAAAAAACAAAAAAIAIAIAAACaAAAAEAAg=</HashCode>
+      <FileName>Assets\Scripts\TentacleBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriangleEnemy" Collapsed="true">
+    <Position X="26.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABQAIAAAAAAAAIAABIAAAAAAAQAAAAI=</HashCode>
+      <FileName>Assets\Scripts\TriangleEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="26.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABACAAAAABgAEAAEAggABQQCAgaAAAAgAAAGA=</HashCode>
+      <FileName>Assets\Scripts\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="24" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAhAABBAAAACgAAAAQAAAASAAAAAEAAEA=</HashCode>
+      <FileName>Assets\Scripts\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager">
+    <Position X="21.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAAAAAAAAIAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScoreManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RepeatingBackground">
+    <Position X="19.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\RepeatingBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBCgQAACAALDQBABAAAAABAEAABAAQgAAAAQBSIAg=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pickup">
+    <Position X="17.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAAAAAAAAAAAAAAAAAAQAAAQAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pickup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeaderBoard">
+    <Position X="21.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAIAAAAIAAAAAABACAAAAAAAAAAAAMA=</HashCode>
+      <FileName>Assets\Scripts\LeaderBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAIAABQAABAAAAAAAAAAAAgAGA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyManager">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQUAAAIAAAQhAAAEAFAAEAAAAAACAAQAEA=</HashCode>
+      <FileName>Assets\Scripts\EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyBullet">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAABBAEAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="10.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAABBAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="thisEnum">
+    <Position X="17.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pickup.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
